@@ -43,5 +43,5 @@ process.on("unhandledRejection", (err) => client.logger.error(`Unhandled excepti
   }
 
   // start the client
-  await client.login(process.env.BOT_TOKEN);
+  await client.login('MTI0MTM0MTc0MzM4Mzk3MzkzMg.GkVfXC.OtRyvnP83k8RLIO7IsZxK4ptU-H07tC8poAa54');
 })();
